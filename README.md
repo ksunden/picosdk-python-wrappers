@@ -1,3 +1,9 @@
+# NOte:
+This version of the library is built off of my (@ksunden) personal github fork of the picosdk repo.
+I am distributing via PyPI as permitted under the terms of the ISC license.
+I do not intend to make any changes to the actual library, only to the packaging (e.g. using setuptools, changing the version number for releases).
+If a representative of PicoTech contacts me, I will gladly transfer ownership of the PyPI namespace to the company.
+
 # picosdk-python-wrappers
 
 Welcome to the PicoSDK for Python. It allows you to control PicoScope devices in your own Python programs.
