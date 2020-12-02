@@ -1,4 +1,4 @@
-# NOte:
+# Note:
 This version of the library is built off of my (@ksunden) personal github fork of the picosdk repo.
 I am distributing via PyPI as permitted under the terms of the ISC license.
 I do not intend to make any changes to the actual library, only to the packaging (e.g. using setuptools, changing the version number for releases).
